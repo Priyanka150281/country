@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Priyanka150281/country.git/static/css/main.55114938.css",
+    "main.js": "/Priyanka150281/country.git/static/js/main.43f9e900.js",
+    "index.html": "/Priyanka150281/country.git/index.html",
+    "main.55114938.css.map": "/Priyanka150281/country.git/static/css/main.55114938.css.map",
+    "main.43f9e900.js.map": "/Priyanka150281/country.git/static/js/main.43f9e900.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.55114938.css",
+    "static/js/main.43f9e900.js"
+  ]
+}
